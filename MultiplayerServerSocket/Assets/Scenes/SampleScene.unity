@@ -365,11 +365,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 306242554}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a01dea9961f0b4247932f0fd782113dc, type: 3}
+  m_Script: {fileID: 11500000, guid: c049f4d250b6c2041b9772f9256d64dd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   startMenu: {fileID: 1742214842}
-  userNameField: {fileID: 1873625311}
+  usernameField: {fileID: 1873625311}
 --- !u!4 &306242556
 Transform:
   m_ObjectHideFlags: 0
@@ -589,7 +589,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1248279186}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7b2d427091c14f944b1fffe4ed48b8a3, type: 3}
+  m_Script: {fileID: 11500000, guid: c57c7aa68df33a34f8777718cbb11e17, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   ip: 127.0.0.1
