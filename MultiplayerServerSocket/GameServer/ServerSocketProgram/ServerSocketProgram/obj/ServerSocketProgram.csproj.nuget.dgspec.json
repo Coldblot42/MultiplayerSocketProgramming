@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Akshay\\Personal\\MultiplayerGit\\Server\\ServerSocketProgram\\ServerSocketProgram\\ServerSocketProgram.csproj": {}
+    "D:\\Akshay\\Personal\\MultiplayerGit\\MultiplayerServerSocket\\GameServer\\ServerSocketProgram\\ServerSocketProgram\\ServerSocketProgram.csproj": {}
   },
   "projects": {
-    "D:\\Akshay\\Personal\\MultiplayerGit\\Server\\ServerSocketProgram\\ServerSocketProgram\\ServerSocketProgram.csproj": {
+    "D:\\Akshay\\Personal\\MultiplayerGit\\MultiplayerServerSocket\\GameServer\\ServerSocketProgram\\ServerSocketProgram\\ServerSocketProgram.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Akshay\\Personal\\MultiplayerGit\\Server\\ServerSocketProgram\\ServerSocketProgram\\ServerSocketProgram.csproj",
+        "projectUniqueName": "D:\\Akshay\\Personal\\MultiplayerGit\\MultiplayerServerSocket\\GameServer\\ServerSocketProgram\\ServerSocketProgram\\ServerSocketProgram.csproj",
         "projectName": "ServerSocketProgram",
-        "projectPath": "D:\\Akshay\\Personal\\MultiplayerGit\\Server\\ServerSocketProgram\\ServerSocketProgram\\ServerSocketProgram.csproj",
+        "projectPath": "D:\\Akshay\\Personal\\MultiplayerGit\\MultiplayerServerSocket\\GameServer\\ServerSocketProgram\\ServerSocketProgram\\ServerSocketProgram.csproj",
         "packagesPath": "C:\\Users\\intel\\.nuget\\packages\\",
-        "outputPath": "D:\\Akshay\\Personal\\MultiplayerGit\\Server\\ServerSocketProgram\\ServerSocketProgram\\obj\\",
+        "outputPath": "D:\\Akshay\\Personal\\MultiplayerGit\\MultiplayerServerSocket\\GameServer\\ServerSocketProgram\\ServerSocketProgram\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\intel\\AppData\\Roaming\\NuGet\\NuGet.Config",

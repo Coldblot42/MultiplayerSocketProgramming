@@ -55,3 +55,7 @@ Server/ServerSocketProgram/ServerSocketProgram/obj/Release/netcoreapp3.1/ServerS
 Server/ServerSocketProgram/ServerSocketProgram/obj/Release/netcoreapp3.1/ServerSocketProgram.AssemblyInfoInputs.cache
 Server/ServerSocketProgram/ServerSocketProgram/obj/Release/netcoreapp3.1/ServerSocketProgram.assets.cache
 Server/ServerSocketProgram/ServerSocketProgram/obj/Release/netcoreapp3.1/ServerSocketProgram.GeneratedMSBuildEditorConfig.editorconfig
+MultiplayerServerSocket/GameServer/.vs/GameServer/v16/.suo
+MultiplayerServerSocket/Logs/AssetImportWorker0-prev.log
+MultiplayerServerSocket/Logs/AssetImportWorker1-prev.log
+MultiplayerServerSocket/Temp/FSTimeGet-c73f1b0777075ba4f8d265abd148d04d

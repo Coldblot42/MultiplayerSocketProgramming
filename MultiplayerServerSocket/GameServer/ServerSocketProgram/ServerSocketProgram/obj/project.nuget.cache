@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mwooy7GeeKj5paYdc1K6H+1R/G20x3EjyKQaLu2KVKLJElighZPCnBq5a0ITHbm/G4zzsbpiMT0FqQFMkqwzpw==",
+  "dgSpecHash": "6zw5oX6CgguRPWtLOnu0wFwhPCgg4w4+Qy9kOwQ9PQ2qcy2bCGI99Bpc0XIeD6wAhZHOKv+zvv8CZ/zEfDk0Hw==",
   "success": true,
-  "projectFilePath": "D:\\Akshay\\Personal\\MultiplayerGit\\Server\\ServerSocketProgram\\ServerSocketProgram\\ServerSocketProgram.csproj",
+  "projectFilePath": "D:\\Akshay\\Personal\\MultiplayerGit\\MultiplayerServerSocket\\GameServer\\ServerSocketProgram\\ServerSocketProgram\\ServerSocketProgram.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
